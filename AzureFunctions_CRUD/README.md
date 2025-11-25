@@ -140,7 +140,8 @@ Main packages:
 
 Below is a screenshot (terminal_output.png) showing the Azure Functions host running locally
 
-![alt text](<img width="1133" height="496" alt="image" src="https://github.com/user-attachments/assets/862a140f-b692-445f-a06f-439bcca75d6d" />
+![alt text](<img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/7a17a120-ebb3-4f84-ae2b-1a1c4309561e" />
+>
 )
 
 ## Function Endpoints
@@ -160,4 +161,5 @@ Below is a screenshot (terminal_output.png) showing the Azure Functions host run
 - The Cosmos DB container uses `/id` as the partition key.
 
 ---
+
 
